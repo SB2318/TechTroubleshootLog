@@ -1,0 +1,2 @@
+# kotlin-java-project-error
+Error is the roadblock of any developer. But I think it gives us a chance to learn something new, to explore something new. But the problem arises when despite searching we can't find the answer anywhere. It starts to get involved with us like cancer and breaks our morale.  The purpose of this repository is to bring together all of these problems and try to find a solution. I hope many will agree with me and help me in this journey.
