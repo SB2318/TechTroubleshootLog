@@ -42,3 +42,11 @@ public class MyJava {
 }
 
 ```
+It may seem to you that there is a problem with my build.gradle.kts file.
+Please go through this <a href="https://discuss.kotlinlang.org/t/noclassdeffound-with-kotlin-java-project/20458">link</a> also. My problem is similar to this.
+
+# Solution:
+
+---
+![](images/initial.png)
+
