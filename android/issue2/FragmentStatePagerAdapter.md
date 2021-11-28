@@ -7,5 +7,22 @@ Let's see how profitable this solution can be.
 
 You can see it's implementation <a href="https://developer.android.com/reference/androidx/fragment/app/FragmentStatePagerAdapter#summary"> here.</a>
 
-----
-<h2>To be continue....</h2>
+Now the problem is this is currently a deprecated method.
+
+For this, we have two alternatives.
+
+**First,** We can use the parent class <a href="https://developer.android.com/reference/androidx/viewpager/widget/PagerAdapter">PagerAdapter.</a>
+
+**Second,** We can use <a href="https://developer.android.com/training/animation/vp2-migration">ViewPager2</a> instead of using ViewPager</a>.
+
+
+**But here's what I want to explain,**
+
+ * How do we do that?
+ * What's the difference generated with our existing code?
+ * In the second case, why we could not do the same job with the help of ViewPager.
+ 
+ <h2>Using PagerAdapter:</h2>
+ ---
+ <h2>To be Continue...</h2>
+
