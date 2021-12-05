@@ -43,12 +43,16 @@ We can use the parent class <a href="https://developer.android.com/reference/and
 I want to give the implementation of the PagerAdapter a little different. Because the purpose of my repository is to find a solution and to help Beginner Android developers. **Because a lot of times we don't know what to look for.**
 I shared here the solution that helped me a lot, <a href="https://camposha.info/android-examples/android-pageradapter/#gsc.tab=0">click here.</a>
 
-<h2><b>Third,</b> </h2>
+<h2><b>Third, using FragmentStateAdapter</b> </h2>
 <br>
 
 We can use <a href="https://developer.android.com/training/animation/vp2-migration">ViewPager2</a> instead of using ViewPager</a>.
+<a href="https://github.com/SB2318/kotlin-java-project-error/blob/main/android/issue2/associate.md">Click here</a> to see an implementation that can be helpful.
 
+<h3>Why can't we implement FragmentStateAdapter with ViewPager?</h3>
 
+----
+## To be continue
 
 
 
