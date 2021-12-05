@@ -180,7 +180,8 @@ public class ScreenSliderActivity extends AppCompatActivity {
 Let's see how our application looks at the moment.
 
 ---
-![pre_final](https://user-images.githubusercontent.com/87614560/144735748-fd94bc79-1269-4d8a-af76-0afe88150848.gif)
+
+![pre_final](https://user-images.githubusercontent.com/87614560/144735934-0492d71b-b277-41ab-b29b-85306fc9fc27.gif)
 
 ---
 
@@ -244,8 +245,6 @@ public class ZoomOutPageTransformer implements ViewPager2.PageTransformer {
 **Step 10:** Run your application.
 ---
 
-![final](https://user-images.githubusercontent.com/87614560/144735847-c16f55e6-c08f-44ab-95b6-c0535340f666.gif)
-
-
+![final](https://user-images.githubusercontent.com/87614560/144735964-a047f2f3-7fc7-4ca4-be36-a8615b32ed1a.gif)
 
 ---
