@@ -9,20 +9,48 @@ You can see it's implementation <a href="https://developer.android.com/reference
 
 Now the problem is this is currently a deprecated method.
 
-For this, we have two alternatives.
+For this, we have three alternatives.
 
-**First,** We can use the parent class <a href="https://developer.android.com/reference/androidx/viewpager/widget/PagerAdapter">PagerAdapter.</a>
+<h2><b>First,</b></h2>
+<br>
 
-**Second,** We can use <a href="https://developer.android.com/training/animation/vp2-migration">ViewPager2</a> instead of using ViewPager</a>.
+Use `FragmentStatePagerAdapter` with `BEHAVIOR_RESUME_ONLY_CURRENT_FRAGMENT`
 
 
-**But here's what I want to explain,**
+```
+public static class MyAdapter extends FragmentStatePagerAdapter {
+        public MyAdapter(FragmentManager fm) {
+            super(fm, BEHAVIOR_RESUME_ONLY_CURRENT_FRAGMENT);
+        }
 
- * How do we do that?
- * What's the difference generated with our existing code?
- * In the second case, why we could not do the same job with the help of ViewPager.
- 
- <h2>Using PagerAdapter:</h2>
- ---
- <h2>To be Continue...</h2>
+        @Override
+        public int getCount() {
+            return NUM_ITEMS;
+        }
+
+        @Override
+        public Fragment getItem(int position) {
+            return ArrayListFragment.newInstance(position);
+        }
+    }
+
+```
+<h2><b>Second,</b></h2>
+<br>
+
+We can use the parent class <a href="https://developer.android.com/reference/androidx/viewpager/widget/PagerAdapter">PagerAdapter.</a> 
+
+I want to give the implementation of the PagerAdapter a little different. Because the purpose of my repository is to find a solution and to help Beginner Android developers. **Because a lot of times we don't know what to look for.**
+I shared here the solution that helped me a lot, <a href="https://camposha.info/android-examples/android-pageradapter/#gsc.tab=0">click here.</a>
+
+<h2><b>Third,</b> </h2>
+<br>
+
+We can use <a href="https://developer.android.com/training/animation/vp2-migration">ViewPager2</a> instead of using ViewPager</a>.
+
+
+
+
+
+
 
