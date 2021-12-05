@@ -11,9 +11,11 @@
 
 `PagerAdapter` supports data set changes. A data set change may involve pages being added, removed, or changing positions.The usage of a `PagerAdapter` depends on whether you’re dealing with dynamic data or static data. In case a user wants to handle dynamic data, `FragmentStatePagerAdapter` is used whereas `FragmentPagerAdapter` is used for static data.
 
-![](images/godsGift.gif)
----
 ## This is My project model. Let's start it.
+---
+
+![godsGift](https://user-images.githubusercontent.com/87614560/144735597-d48b11db-b73c-4575-8535-a2eee70c7278.gif)
+
 
 Here,  we use <a href="https://developer.android.com/training/animation/vp2-migration"><b>ViewPager2,</b></a> Because  `FragmentStatePagerAdapter` and  `FragmentPagerAdapter` are deprecated from API 27, and we are going to see an easy solution to get rid of this problem.
 
@@ -44,15 +46,17 @@ Here,  we use <a href="https://developer.android.com/training/animation/vp2-migr
 
  * **Step 3.1:**  create a package named container.
  ---
- ![](images/package_example.png)
+![package_example](https://user-images.githubusercontent.com/87614560/144735663-da6494f0-a140-40f6-a30c-7fd23562290a.png)
+
  ---
  * **Step 3.2:** create five fragments within the package.
  ---
-   ![](images/container.png)
+![container](https://user-images.githubusercontent.com/87614560/144735687-5d828a98-955c-4762-811e-8e9a2351bbea.png)
+
  ---
  * **Step 3.3 :** Remove all unnecessary methods and fields from fragments. Your fragments look like.
  ---
-   ![](images/fresh_fragment.png)
+ ![fresh_fragment](https://user-images.githubusercontent.com/87614560/144735699-54e8c9fa-4a71-4be4-9b1b-87673c9b2017.png)
  ---
  
 **Step 4:** Create the views
@@ -60,7 +64,10 @@ Here,  we use <a href="https://developer.android.com/training/animation/vp2-migr
 We have five fragments here. We will maintain the same design pattern for these five fragments. The change will reflect only on the background and the text of the TextView.
 
 ---
- ![](images/layout.png)
+
+![layout](https://user-images.githubusercontent.com/87614560/144735711-9285e3dd-dfc4-4e12-8708-f68b8e2bb346.png)
+
+
 ---
 
 
@@ -74,7 +81,8 @@ We have five fragments here. We will maintain the same design pattern for these 
 
 ---
 
- ![](images/viewpager_creation.png)
+ ![viewpager_creation](https://user-images.githubusercontent.com/87614560/144735719-343db5a8-f3e8-4c92-afea-080c53364b88.png)
+
 ---
 **Step 6:**  Create an adapter class which extends <a href="https://developer.android.com/reference/androidx/viewpager2/adapter/FragmentStateAdapter"><b>FragmentStateAdapter</b></a> instead of extending `FragmentStatePagerAdapter` and override the required methods.
 
@@ -172,12 +180,14 @@ public class ScreenSliderActivity extends AppCompatActivity {
 Let's see how our application looks at the moment.
 
 ---
- ![](images/pre_final.gif)
+![pre_final](https://user-images.githubusercontent.com/87614560/144735748-fd94bc79-1269-4d8a-af76-0afe88150848.gif)
+
 ---
 
 **Step 9:** Apply animation between fragments using PageTransformer. Here we use **Zoom-out page transformer.**
 
 * **Step 9.1 :** Create a new Java class copy the code from here.
+
 ```
  package com.sb2318.screenslideranimation.pageTransformer;
 
@@ -233,5 +243,9 @@ public class ZoomOutPageTransformer implements ViewPager2.PageTransformer {
 ```
 **Step 10:** Run your application.
 ---
- ![](images/final.gif)
+
+![final](https://user-images.githubusercontent.com/87614560/144735847-c16f55e6-c08f-44ab-95b6-c0535340f666.gif)
+
+
+
 ---
