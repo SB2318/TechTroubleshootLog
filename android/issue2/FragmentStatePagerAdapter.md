@@ -52,7 +52,33 @@ We can use <a href="https://developer.android.com/training/animation/vp2-migrati
 <h3>Why can't we implement FragmentStateAdapter with ViewPager?</h3>
 
 ----
-## To be continue
+
+Both the ViewPager and ViewPager2 have a `setAdapter()` method, with the help of which we set the adapter into ViewPager.
+
+`public abstract class FragmentStateAdapter extends Adapter<FragmentViewHolder> implements StatefulAdapter`
+
+`public abstract class PagerAdapter extends Object`
+
+Here we see FragmentStateAdapter extends Adapter class.But PagerAdapter class extends the Object class.So,we can't  able to establish a stable relationship between the two of them.
+But  as an argument,`setAdapter()` method of ViewPager takes an instance of PagerAdapter class.
+
+---
+
+![viewpager](https://user-images.githubusercontent.com/87614560/146673715-20c9e794-42e1-49d9-9a69-466e4f0c6b30.png)
+
+---
+
+On the other hand, the `setAdapter()` method of ViewPager2 takes an Adapter class instance as an argument.
+
+---
+
+![viewpager2](https://user-images.githubusercontent.com/87614560/146673723-0e3bd278-355c-4cb2-a1d9-fb11e3e2571b.png)
+
+---
+
+FragmentStateAdapter is a child class of Adapter class.
+For this reason, we can easily use it with ViewPager2. But we can't use it with ViewPager.
+
 
 
 
