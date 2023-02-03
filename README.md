@@ -86,6 +86,56 @@ Available Issues Based On Related Topics:
 
 Here are some available issues from the experience of <a href="https://github.com/SB2318"> @SB2318 </a>. In most of the cases, there is at least one solution available for each problem, which is worked for her.
 
+Native Android:
+---------------
+
+Enhancement(Native Android):
+-----------------------------
+
+**Issue 72:**  <a href="https://github.com/SB2318/TechTroubleshootLog/issues/72">On clicking Push Notification how to open application with new activity instance if it is in background?</a>
+
+**Issue 71:**   <a href="https://github.com/SB2318/TechTroubleshootLog/issues/71">How to get continuous location updates in Android</a>
+
+**Issue 59:**   <a href="https://github.com/SB2318/TechTroubleshootLog/issues/59">How can we add custom layout to the AlertDialogue?</a>
+
+**Issue 51:**   <a href="https://github.com/SB2318/TechTroubleshootLog/issues/51">How can I clear My EditText in code</a>
+
+**Issue 48:**   <a href="https://github.com/SB2318/TechTroubleshootLog/issues/48">How can I set my intent type for both image and pdf acceptable?</a>
+
+**Issue 44:**   <a href="https://github.com/SB2318/TechTroubleshootLog/issues/44">CLEARTEXT communication to 172.16.16.20 not permitted by network security policy</a>
+
+**Issue 42:**   <a href="https://github.com/SB2318/TechTroubleshootLog/issues/42">Is it possible to Use a hashmap object as navigation arguments? </a>
+
+**Issue 41:**   <a href="https://github.com/SB2318/TechTroubleshootLog/issues/41">Is It Possible, to store a HashMap object inside a bundle? </a>
+
+**Issue 39:**   <a href="https://github.com/SB2318/TechTroubleshootLog/issues/39">Full Screen DialogFragment in Android.</a> 
+
+**Issue 38:**   <a href="https://github.com/SB2318/TechTroubleshootLog/issues/38">URL Parsing in Kotlin using Regex. </a>
+
+**Issue 37:**   <a href="https://github.com/SB2318/TechTroubleshootLog/issues/37">Showing Morning, afternoon, evening, night message based on Time in java.</a>
+
+**Issue 31:**   <a href="https://github.com/SB2318/TechTroubleshootLog/issues/31">How can we get current location based on our android device programatically?</a>
+
+**Issue 30:**   <a href="https://github.com/SB2318/TechTroubleshootLog/issues/30">How can we change the status bar color in android?</a>
+
+**Issue 27:**   <a href="https://github.com/SB2318/TechTroubleshootLog/issues/27">How can we implement onBackPressed() from fragment.</a>
+
+**Issue 3:**    <a href="https://github.com/SB2318/TechTroubleshootLog/issues/3">FragmentStatePagerAdapter is deprecated from API 27.</a>
+
+
+Bug (Native Android):
+-----------------------
+
+**Issue 62:**    <a href="https://github.com/SB2318/TechTroubleshootLog/issues/62">More than one file was found with OS independent path 'META-INF/LICENSE'</a>
+
+**Issue 57:**    <a href="https://github.com/SB2318/TechTroubleshootLog/issues/62"> onRestoreInstanceState' overrides nothing.</a>
+
+**Issue 56:**    <a href="https://github.com/SB2318/TechTroubleshootLog/issues/56">duplicate class android.support.v4.app.inotificationsidechannel found in modules core-1.8.0-runtime (androidx.core:core:1.8.0) and support-compat-27.1.1-runtime (com.android.support:support-compat:27.1.1)</a>
+
+
+
+
+
 
   
   
