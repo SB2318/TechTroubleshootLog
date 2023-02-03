@@ -9,184 +9,47 @@
 <br>
 <br>
 
-<details align="left">
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#what-is-techtrobleshootlog">What is TechTroubleshootLog?</a></li>
-        <li><a href="#importance-of-this-repo">Importance of this repo</a></li>
-        <li><a href="#contributing"> How are we going to work?</a> </li>
-      </ul>
-    </li>
-    <li>
-      <a href="#available-issues-based-on-related-topics">Available issues based on related topics</a>
-      <ul>
-        <li><a href="#android-java-kotlin">Android (Java,Kotlin)</a>
-          <ul>
-            <li> Solved
-             <ul>
-               <li>Enhancement/Feature related</li>
-               <li>Bug</li>
-               </ul>
-               </li>
-            <li> Progressing
-             <ul>
-               <li>Enhancement/Feature related</li>
-               <li>Bug</li>
-               </ul>
-               </li>
-            <li> Unresolved (Help wanted)
-             <ul>
-               <li>Enhancement/Feature related</li>
-               <li>Bug</li>
-               </ul>
-               </li>
-          </ul>
-          </li>
-        <li>
-        <a href="#android-react-native">Android (React Native)</a>
-           <ul>
-            <li> Solved
-             <ul>
-               <li>Enhancement/Feature related</li>
-               <li>Bug</li>
-               </ul>
-               </li>
-            <li> Progressing
-             <ul>
-               <li>Enhancement/Feature related</li>
-               <li>Bug</li>
-               </ul>
-               </li>
-            <li> Unresolved (Help wanted)
-             <ul>
-               <li>Enhancement/Feature related</li>
-               <li>Bug</li>
-               </ul>
-               </li>
-          </ul>
-          </li>
-         <li>
-         <a href="#web-services">Web Services</a>
-           <ul>
-            <li> Solved
-             <ul>
-               <li>Enhancement/Feature related</li>
-               <li>Bug</li>
-               </ul>
-               </li>
-            <li> Progressing
-             <ul>
-               <li>Enhancement/Feature related</li>
-               <li>Bug</li>
-               </ul>
-               </li>
-            <li> Unresolved (Help wanted)
-             <ul>
-               <li>Enhancement/Feature related</li>
-               <li>Bug</li>
-               </ul>
-               </li>
-          </ul>
-          </li>
-           <li>
-           <a href="#android-testing"> Android Testing</a> 
-           <ul>
-            <li> Solved
-             <ul>
-               <li>Enhancement/Feature related</li>
-               <li>Bug</li>
-               </ul>
-               </li>
-            <li> Progressing
-             <ul>
-               <li>Enhancement/Feature related</li>
-               <li>Bug</li>
-               </ul>
-               </li>
-            <li> Unresolved (Help wanted)
-             <ul>
-               <li>Enhancement/Feature related</li>
-               <li>Bug</li>
-               </ul>
-               </li>
-          </ul> 
-          </li>
-           <li>
-           <a href="#databases-firebase-room">Databases (Firebase, Room)</a>
-           <ul>
-            <li> Solved
-             <ul>
-               <li>Enhancement/Feature related</li>
-               <li>Bug</li>
-               </ul>
-               </li>
-            <li> Progressing
-             <ul>
-               <li>Enhancement/Feature related</li>
-               <li>Bug</li>
-               </ul>
-               </li>
-            <li> Unresolved (Help wanted)
-             <ul>
-               <li>Enhancement/Feature related</li>
-               <li>Bug</li>
-               </ul>
-               </li>
-          </ul>
-          </li>
-          <li><a href="#design-issues">Design Issues</a>
-           <ul>
-            <li> Solved
-             <ul>
-               <li>Enhancement/Feature related</li>
-               <li>Bug</li>
-               </ul>
-               </li>
-            <li> Progressing
-             <ul>
-               <li>Enhancement/Feature related</li>
-               <li>Bug</li>
-               </ul>
-               </li>
-            <li> Unresolved (Help wanted)
-             <ul>
-               <li>Enhancement/Feature related</li>
-               <li>Bug</li>
-               </ul>
-               </li>
-          </ul>       
-          </li>  
-           <li><a href="#system-related">System Related</a>
-           <ul>
-            <li> Solved
-              <ul>
-               <li>Enhancement/Feature related</li>
-               <li>Bug</li>
-               </ul>
-               </li>
-            <li> Progressing </li>
-            <ul>
-               <li>Enhancement/Feature related
-               <li>Bug</li>
-               </ul>
-               </li>
-            <li> Unresolved (Help wanted)
-              <ul>
-               <li>Enhancement/Feature related</li>
-               <li>Bug</li>
-               </li>
-               </ul>
-          </ul>
-          </li>  
-      </ul>
-    </li> 
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
-  </ol>
-</details>
+Table of Contents
+=================
+
+  * [About The Project](#about-the-project)
+    * [What is TechTroubleshootLog](#what-is-techtroubleshootlog)
+    * [Importance of this repo](#importance-of-this-repo)
+    * [Working Process](#working-process)
+    
+  * [Available Issues Based On Related Topics](#available-issues-based-on-related-topics)
+  
+    * [Native Android](#native-android)
+      * [Enhancement(Native Android)](#enhancement-native-android)
+      * [Bug (Native Android)](#bug-native-android)
+      
+    * [React Native Android](#react-native-android)
+      * [Enhancement (React Native)](#enhancement-react-native)
+      * [Bug (React Native)](#bug-react-native)
+      
+    * [Web Services](#web-services)
+      * [Enhancement (Web Services)](#enhancement-web-services)
+      * [Bug (Web Services)](#bug-web-services)
+      
+    * [Android Testing](#android-testing)
+      * [Enhancement (Android Testing)](#enhancement-android-testing)
+      * [Bug (Android Testing)](#bug-android-testing)
+      
+    * [Databases (Firebase,Room)](#databases-firebase-room)
+      * [Enhancement (Databases)](#enhancement-databases)
+      * [Bug (Databases)](#bug-databases)
+      
+    * [Design Issues](#design-issues)
+      * [Enhancement (Design Issues)](#enhancement-design-issues)
+      * [Bug (Design Issues)](#bug-design-issues)
+      
+    * [System Related](#system-related)
+      * [Enhancement (System Related)](#enhancement-system-related)
+      * [Bug (System Related)](#bug-system-related)
+      
+  * [Usage](#usage)
+  * [Roadmap](#roadmap)
+  * [Contact](#contact)
+  * [Acknowledgement](#acknowledgement)
+  
+  
