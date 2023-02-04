@@ -56,12 +56,12 @@ Table of Contents
   ---
 
 What is TechTroubleshootLog?
------------------------------
+============================
 
 TechTroubleshootLog is a kind of troubleshooting log repository, which is a collection of records, information, and data that document and detail the steps taken to identify and resolve technical problems or issues(Computer Systems, Developing, and Software Related) through conversation and opinions of experienced persons in the related field. It serves as a reference for future troubleshooting efforts and can help to improve the efficiency and effectiveness of resolving similar issues in the future. 
 
 Importance of this repo:
----------------------------
+========================
 
 * **Improves efficiency:** By having a centralized repository of previous troubleshooting efforts, we can quickly access and apply past solutions to new problems, saving time and effort in resolving issues.
 
@@ -70,7 +70,7 @@ Importance of this repo:
 * **Enhances problem resolution:** By documenting the steps taken to resolve problems, the log repository can help to identify patterns or common causes, allowing for quicker and more accurate resolution of similar issues in the future.
 
 Working Process:
-------------------
+=================
 
 1. **Problem Reporting:**  As a Developer, Programmer, or Software/System Engineer if you encountered a problem and want to contribute to this repo, please follow the 
     contribution guidelines then report it by creating a new issue with the proper label (If not find a proper label then give your suggestion and leave it).
@@ -82,13 +82,13 @@ Working Process:
 This process will repeat on a regular basis until we find a solution.
 
 Available Issues Based On Related Topics:
------------------------------------------
+==========================================
 
 
 Here are some available issues from the experience of <a href="https://github.com/SB2318"> @SB2318 </a>. In most of the cases, there is at least one solution available for each problem, which is worked for her.
 
 Native Android:
----------------
+================
 
  Enhancement (Native Android):
 -----------------------------
@@ -192,7 +192,7 @@ Bug (Native Android):
  
  
 React Native Android:
----------------------
+=====================
 
 Enhancement (React Native):
 ---------------------------
@@ -220,10 +220,10 @@ Enhancement (React Native):
  
 
 Web Services:
---------------
+===============
  
  Enhancement (Web Services):
-----------------------------
+-----------------------------
  No issues Found:
  
  Bug (Web Services):
@@ -235,7 +235,7 @@ Web Services:
  
  
  Android Testing:
------------------
+==================
  
 Enhancement (Android Testing):
 --------------------------------
@@ -263,7 +263,7 @@ Enhancement (Android Testing):
  
  
  Databases:
- -----------
+ ===========
  
  Enhancement (Databases):
 --------------------------
@@ -290,7 +290,7 @@ Enhancement (Android Testing):
  
  
  Design Issues:
- ----------------
+ ====================
  
  Enhancement (Design Issues):
  -----------------------------
@@ -329,7 +329,7 @@ Enhancement (Android Testing):
  
  
  System Related:
------------------
+==================
  
 Enhancement (System Related):
 ------------------------------
@@ -357,10 +357,39 @@ Enhancement (System Related):
   **Issue 4:** <a href="https://github.com/SB2318/TechTroubleshootLog/issues/4">Task bar is not working.(System-based)</a>
 
  
+Usage:
+=======
+ 
+It can be used to quickly resolve issues that a learner may face, allowing them to continue using or learning the technology efficiently.By providing a central location for resolving technical issues, the repository can save one's time and effort.
  
  
+Roadmap:
+==========
  
+Propose future plans for the project as follows:
+
+ * Making problem statements of issues more descriptive.
+ * Rewrite the solution in a more descriptive form with images or videos.
+ * Linking to more technical field-related issues.
+
  
+Contact:
+==========
+ 
+  <h3 align="left"> Connect with Me 😀</h3>
+
+  <p align="left">
+  <a target="_blank"href="https://www.linkedin.com/in/s-bhattacharya-3687621b7/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="susmitabhattacharya2023@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+  
+  <br>
+ 
+ Acknowledgement:
+ ================
+
+ Before starting this repository I used to specially come to this two-person <a href="https://github.com/niloysikdar">@niloysikdar</a> and <a href="https://github.com/sagnik1511">@sagnik1511</a> whenever I faced any technical-related problem. So, I want to acknowledge those two people specially
+ <a href="https://github.com/niloysikdar">@niloysikdar</a> from whom I first learn How to take an approach to find a solution to a problem.
  
  
   
