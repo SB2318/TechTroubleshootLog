@@ -110,15 +110,25 @@ Enhancement(Native Android):
 
 **Issue 39:**   <a href="https://github.com/SB2318/TechTroubleshootLog/issues/39">Full Screen DialogFragment in Android.</a> 
 
+**Issue 40:**   <a href="https://github.com/SB2318/TechTroubleshootLog/issues/40">How can I increase Checkbox height and width.</a>
+
 **Issue 38:**   <a href="https://github.com/SB2318/TechTroubleshootLog/issues/38">URL Parsing in Kotlin using Regex. </a>
 
 **Issue 37:**   <a href="https://github.com/SB2318/TechTroubleshootLog/issues/37">Showing Morning, afternoon, evening, night message based on Time in java.</a>
+
+**Issue 36:**   <a href="https://github.com/SB2318/TechTroubleshootLog/issues/36">Android - How to Set a semi-transparent layout?</a>
 
 **Issue 31:**   <a href="https://github.com/SB2318/TechTroubleshootLog/issues/31">How can we get current location based on our android device programatically?</a>
 
 **Issue 30:**   <a href="https://github.com/SB2318/TechTroubleshootLog/issues/30">How can we change the status bar color in android?</a>
 
 **Issue 27:**   <a href="https://github.com/SB2318/TechTroubleshootLog/issues/27">How can we implement onBackPressed() from fragment.</a>
+
+**Issue 25:**   <a href="https://github.com/SB2318/TechTroubleshootLog/issues/25">How can we place a imageView over an Button in Android?</a>
+
+**Issue 19:**   <a href="https://github.com/SB2318/TechTroubleshootLog/issues/19">How to remove Indicator from EditText.</a>
+
+**Issue 17:**   <a href="https://github.com/SB2318/TechTroubleshootLog/issues/17">Restrict EditText from adding some special character by itself like "\n"</a>
 
 **Issue 3:**    <a href="https://github.com/SB2318/TechTroubleshootLog/issues/3">FragmentStatePagerAdapter is deprecated from API 27.</a>
 
@@ -128,9 +138,55 @@ Bug (Native Android):
 
 **Issue 62:**    <a href="https://github.com/SB2318/TechTroubleshootLog/issues/62">More than one file was found with OS independent path 'META-INF/LICENSE'</a>
 
-**Issue 57:**    <a href="https://github.com/SB2318/TechTroubleshootLog/issues/62"> onRestoreInstanceState' overrides nothing.</a>
+**Issue 61:**    <a href="https://github.com/SB2318/TechTroubleshootLog/issues/61">ExceptionInitializeError : Caused by: io.mockk.proxy.MockKAgentException: MockK could not self-attach a jvmti agent to the current VM.</a>
+
+**Issue 60:**    <a href="https://github.com/SB2318/TechTroubleshootLog/issues/60">expo.ps1 cannot be loaded because running scripts is disabled on this system.</a>
+
+**Issue 57:**    <a href="https://github.com/SB2318/TechTroubleshootLog/issues/57">onRestoreInstanceState' overrides nothing </a>
 
 **Issue 56:**    <a href="https://github.com/SB2318/TechTroubleshootLog/issues/56">duplicate class android.support.v4.app.inotificationsidechannel found in modules core-1.8.0-runtime (androidx.core:core:1.8.0) and support-compat-27.1.1-runtime (com.android.support:support-compat:27.1.1)</a>
+
+**Issue 55:**    <a href="https://github.com/SB2318/TechTroubleshootLog/issues/55">Cannot Resolve IntentsTestRule</a>
+
+**Issue 54:**    <a href="https://github.com/SB2318/TechTroubleshootLog/issues/54">launchInContainer() not found in Espresso</a>
+
+**Issue 53:**    <a href="https://github.com/SB2318/TechTroubleshootLog/issues/53">Parcelable encountered IOException writing serializable object getactivity()</a>
+
+**Issue 52:**    <a href="https://github.com/SB2318/TechTroubleshootLog/issues/52">setVisibility is not working in DrawerNavigation.</a>
+
+**Issue 49:**    <a href="https://github.com/SB2318/TechTroubleshootLog/issues/49">Cannot resolve Base64.encodeToString</a>
+
+**Issue 46:**    <a href="https://github.com/SB2318/TechTroubleshootLog/issues/46">Unfinished stubbing detected here: -> at com.example.mockito.loginTest.LoginUseCaseSyncTest.networkError </a>
+
+**Issue 45:**    <a href="https://github.com/SB2318/TechTroubleshootLog/issues/45">Mockito when clause is not working in Kotlin.</a>
+
+**Issue 44:**     <a href="https://github.com/SB2318/TechTroubleshootLog/issues/44">CLEARTEXT communication to 172.16.16.20 not permitted by network security policy </a>
+
+**Issue 43:**     <a href="https://github.com/SB2318/TechTroubleshootLog/issues/43">Error: write EPROTO 34557064:error:100000f7:SSL routines:OPENSSL_internal:WRONG_VERSION_NUMBER</a>
+
+**Issue 28:**     <a href="https://github.com/SB2318/TechTroubleshootLog/issues/28">android.provider.Telephony.SMS_RECEIVED not working, can't get the desired functionality.</a>
+
+**Issue 24:**     <a href="https://github.com/SB2318/TechTroubleshootLog/issues/24">Build was configured to prefer settings repositories over project repositories but repository 'maven' was added by build file 'build.gradle'</a>
+
+**Issue 23:**      <a href="https://github.com/SB2318/TechTroubleshootLog/issues/23">Please provide the necessary Migration path via RoomDatabase.Builder</a>
+
+**Issue 21:**      <a href="https://github.com/SB2318/TechTroubleshootLog/issues/21">Cannot resolve symbol @Inject</a>
+
+**Issue 17:**       <a href="https://github.com/SB2318/TechTroubleshootLog/issues/17">java.lang.IllegalStateException: Can not perform this action after onSaveInstanceState</a>
+
+**Issue 14:**       <a href="https://github.com/SB2318/TechTroubleshootLog/issues/14">RemoteServiceException: Bad notification for startForeground crash on >= Android 8.1.</a>
+
+**Issue 12:**       <a href="https://github.com/SB2318/TechTroubleshootLog/issues/12">Android Studio not responding with mouse click events.</a>
+
+**Issue 11:**       <a href="https://github.com/SB2318/TechTroubleshootLog/issues/11">Gradle build does not support local aar dependencies </a>
+
+**Issue 9:**        <a href="https://github.com/SB2318/TechTroubleshootLog/issues/9">initializationError: java.lang.RuntimeException: Delegate runner androidx.test.internal.runner.junit4</a>
+
+**Issue 7:**        <a href="https://github.com/SB2318/TechTroubleshootLog/issues/7">The minCompileSdk (31) specified in a dependency's AAR metadata is greater than the compileSdkVersion.</a>
+
+**Issue 6:**        <a href="https://github.com/SB2318/TechTroubleshootLog/issues/6">Plugin id 'com.android.application' was not found. </a>
+
+**Issue 1:**         <a href="https://github.com/SB2318/TechTroubleshootLog/issues/1">NoClassDefFound with Kotlin-Java project.</a>
 
 
 
