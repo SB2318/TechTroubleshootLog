@@ -81,6 +81,8 @@ Working Process:
      
 This process will repeat on a regular basis until we find a solution.
 
+**Please follow the <a href="https://github.com/SB2318/TechTroubleshootLog/blob/main/Contributing_GuideLines.md">Contribution Guidelines </a> before creating a new issue.**
+
 Available Issues Based On Related Topics:
 ==========================================
 
