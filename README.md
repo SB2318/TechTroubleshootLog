@@ -3,6 +3,7 @@
 
 <img src="https://github.com/SB2318/TechTroubleshootLog/blob/main/assets/BEST_SOLUTION.gif" alt="Don't try it| Let's find ours"/>
 <h1>
+ 
 <h4 align="center">Every problem has a solution. Let's try to find it or built it.</a>
 
 <!-- TABLE OF CONTENTS -->
@@ -20,7 +21,7 @@ Table of Contents
   * [Available Issues Based On Related Topics](#available-issues-based-on-related-topics)
   
     * [Native Android](#native-android)
-      * [Enhancement(Native Android)](#enhancement-native-android)
+      * [Enhancement (Native Android)](#enhancement-native-android)
       * [Bug (Native Android)](#bug-native-android)
       
     * [React Native Android](#react-native-android)
@@ -35,7 +36,7 @@ Table of Contents
       * [Enhancement (Android Testing)](#enhancement-android-testing)
       * [Bug (Android Testing)](#bug-android-testing)
       
-    * [Databases (Firebase,Room)](#databases-firebase-room)
+    * [Databases](#databases)
       * [Enhancement (Databases)](#enhancement-databases)
       * [Bug (Databases)](#bug-databases)
       
@@ -89,7 +90,7 @@ Here are some available issues from the experience of <a href="https://github.co
 Native Android:
 ---------------
 
-Enhancement(Native Android):
+ Enhancement (Native Android):
 -----------------------------
 
 **Issue 72:**  <a href="https://github.com/SB2318/TechTroubleshootLog/issues/72">On clicking Push Notification how to open application with new activity instance if it is in background?</a>
@@ -187,11 +188,180 @@ Bug (Native Android):
 **Issue 6:**        <a href="https://github.com/SB2318/TechTroubleshootLog/issues/6">Plugin id 'com.android.application' was not found. </a>
 
 **Issue 1:**         <a href="https://github.com/SB2318/TechTroubleshootLog/issues/1">NoClassDefFound with Kotlin-Java project.</a>
+ 
+ 
+ 
+React Native Android:
+---------------------
 
+Enhancement (React Native):
+---------------------------
+ 
+ **Issue 76:**  <a href="https://github.com/SB2318/TechTroubleshootLog/issues/76">How to find User's current location in React-Native?</a>
+ 
+ **Issue 75:**  <a href="https://github.com/SB2318/TechTroubleshootLog/issues/75">How to hide a View component in React Native?</a>
+ 
+ **Issue 74:**  <a href="https://github.com/SB2318/TechTroubleshootLog/issues/74">How can I create a line separator in react-native?</a>
+ 
+ **Issue 73:**  <a href="https://github.com/SB2318/TechTroubleshootLog/issues/73">How to dynamically create nested JavaScript object.</a>
+ 
+ 
+ Bug (React Native):
+--------------------
+ 
+ **Issue 67:** <a href="https://github.com/SB2318/TechTroubleshootLog/issues/67">React-Native-Reanimated: error: node_modules\react-native-reanimated\src\index.ts:</a>
+ 
+ **Issue 64:** <a href="https://github.com/SB2318/TechTroubleshootLog/issues/64">react-native :app:installDebug FAILED</a>
+ 
+ **Issue 63:** <a href="https://github.com/SB2318/TechTroubleshootLog/issues/63">Error: Command failed: gradlew.bat app:installDebug -PreactNativeDevServerPort=8081.</a>
+ 
+ **Issue 60:** <a href="https://github.com/SB2318/TechTroubleshootLog/issues/60">expo.ps1 cannot be loaded because running scripts is disabled on this system.</a>
+ 
+ 
 
+Web Services:
+--------------
+ 
+ Enhancement (Web Services):
+----------------------------
+ No issues Found:
+ 
+ Bug (Web Services):
+---------------------
+ 
+ **Issue 43:**  <a href="https://github.com/SB2318/TechTroubleshootLog/issues/43">Error: write EPROTO 34557064:error:100000f7:SSL routines:OPENSSL_internal:WRONG_VERSION_NUMBER</a>
+ 
+ **Issue 33:**  <a href="https://github.com/SB2318/TechTroubleshootLog/issues/33"> Error: Ajax is not a function</a>
+ 
+ 
+ Android Testing:
+-----------------
+ 
+Enhancement (Android Testing):
+--------------------------------
+ 
+ **Issue 46:**  <a href="https://github.com/SB2318/TechTroubleshootLog/issues/46"> Unfinished stubbing detected here: -> at com.example.mockito.loginTest.LoginUseCaseSyncTest.networkError </a>
+ 
+ **Issue 45:**  <a href="https://github.com/SB2318/TechTroubleshootLog/issues/45">Mockito when clause is not working in Kotlin.</a>
+ 
+ Bug (Android Testing):
+-----------------------
+ 
+ **Issue 61:** <a href="https://github.com/SB2318/TechTroubleshootLog/issues/61">ExceptionInitializeError : Caused by: io.mockk.proxy.MockKAgentException: MockK could not self-attach a jvmti agent to the current VM</a>
+ 
+ **Issue 60:**  <a href="https://github.com/SB2318/TechTroubleshootLog/issues/60">expo.ps1 cannot be loaded because running scripts is disabled on this system.</a>
+ 
+ **Issue 55:**  <a href="https://github.com/SB2318/TechTroubleshootLog/issues/55">Cannot Resolve IntentsTestRule </a>
+ 
+ **Issue 54:**  <a href="https://github.com/SB2318/TechTroubleshootLog/issues/54">launchInContainer() not found in Espresso</a>
+ 
+  **Issue 46:**  <a href="https://github.com/SB2318/TechTroubleshootLog/issues/46"> Unfinished stubbing detected here: -> at com.example.mockito.loginTest.LoginUseCaseSyncTest.networkError </a>
+ 
+ **Issue 45:**  <a href="https://github.com/SB2318/TechTroubleshootLog/issues/45">Mockito when clause is not working in Kotlin.</a>
+ 
+ **Issue 9:**   <a href="https://github.com/SB2318/TechTroubleshootLog/issues/9">initializationError: java.lang.RuntimeException: Delegate runner androidx.test.internal.runner.junit4 </a>
+ 
+ 
+ Databases:
+ -----------
+ 
+ Enhancement (Databases):
+--------------------------
+ 
+ **Issue 35:** <a href="https://github.com/SB2318/TechTroubleshootLog/issues/35">firestore: PERMISSION_DENIED: Missing or insufficient permissions.</a>
+ 
+ **Issue 34:** <a href="https://github.com/SB2318/TechTroubleshootLog/issues/34">Test FCM Notification with POSTMAN!</a>
+ 
+ **Issue 32:** <a href="https://github.com/SB2318/TechTroubleshootLog/issues/32">Enable or Disable Legacy Server Key</a>
+ 
+ **Issue 29:** <a href="https://github.com/SB2318/TechTroubleshootLog/issues/29">Firestore can not write date string as collection name in Android </a>
+ 
+ 
+  Bug (Databases):
+ ------------------
+ 
+  **Issue 23:** <a href="https://github.com/SB2318/TechTroubleshootLog/issues/23">Please provide the necessary Migration path via RoomDatabase.Builder</a>
+ 
+  **Issue 22:** <a href="https://github.com/SB2318/TechTroubleshootLog/issues/22">Query method parameters should either be a type that can be converted into a database column or a List / Array that contains such type</a>
+ 
+  **Issue 13:** <a href="https://github.com/SB2318/TechTroubleshootLog/issues/13">Can't Insert more than one record in SQLite database.</a>
+ 
+  **Issue 10:** <a href="https://github.com/SB2318/TechTroubleshootLog/issues/10">com.google.firebase.database.DatabaseException: can't convert object of java.lang.String to your required object.</a>
+ 
+ 
+ Design Issues:
+ ----------------
+ 
+ Enhancement (Design Issues):
+ -----------------------------
+ 
+ **Issue 75:** <a href="https://github.com/SB2318/TechTroubleshootLog/issues/75">How to hide a View component in React Native? </a>
+ 
+ **Issue 74:** <a href="https://github.com/SB2318/TechTroubleshootLog/issues/74">How can I create a line separator in react-native?</a>
+ 
+ **Issue 59:** <a href="https://github.com/SB2318/TechTroubleshootLog/issues/59">How can we add custom layout to the AlertDialogue? </a>
+ 
+ **Issue 51:** <a href="https://github.com/SB2318/TechTroubleshootLog/issues/51">How can I clear My EditText in code? </a>
+ 
+ **Issue 40:** <a href="https://github.com/SB2318/TechTroubleshootLog/issues/40">How can I increase Checkbox height and width?</a>
+ 
+ **Issue 39:** <a href="https://github.com/SB2318/TechTroubleshootLog/issues/39">Full Screen DialogFragment in Android</a>
+ 
+ **Issue 36:** <a href="https://github.com/SB2318/TechTroubleshootLog/issues/36">Android - How to Set a semi-transparent layout?</a>
+ 
+ **Issue 30:** <a href="https://github.com/SB2318/TechTroubleshootLog/issues/30">How can we change the status bar color in android?</a>
+ 
+ **Issue 25:** <a href="https://github.com/SB2318/TechTroubleshootLog/issues/25">How can we place a imageView over an Button in Android? </a>
+ 
+ **Issue 19:** <a href="https://github.com/SB2318/TechTroubleshootLog/issues/19">How to remove Indicator from EditText.</a>
+ 
+ **Issue 15:** <a href="https://github.com/SB2318/TechTroubleshootLog/issues/15">Restrict EditText from adding some special character by itself like "\n"</a>
+ 
+ 
+ Bug (Design Issues):
+---------------------
+ 
+ **Issue 68:** <a href="https://github.com/SB2318/TechTroubleshootLog/issues/68">List Item Overlapping in nav bar.</a>
+ 
+ **Issue 52:** <a href="https://github.com/SB2318/TechTroubleshootLog/issues/52">setVisibility is not working in DrawerNavigation.</a>
+ 
+ **Issue 16:** <a href="https://github.com/SB2318/TechTroubleshootLog/issues/16">Font asset not found.</a>
+ 
+ 
+ System Related:
+-----------------
+ 
+Enhancement (System Related):
+------------------------------
+ 
+  **Issue 66:** <a href="https://github.com/SB2318/TechTroubleshootLog/issues/66">Force Restart (reboot) your PC.</a>
+ 
+  **Issue 65:** <a href="https://github.com/SB2318/TechTroubleshootLog/issues/65">How can I perform "Cold Boot" in Emulator.</a>
+ 
+  **Issue 50:** <a href="https://github.com/SB2318/TechTroubleshootLog/issues/50">How Can you set Your own location in android emulator?</a>
+ 
+  **Issue 47:** <a href="https://github.com/SB2318/TechTroubleshootLog/issues/47">How to add an image to the emulator gallery in android studio?</a>
+ 
+ 
+ Bug (System Related):
+ ---------------------
+ 
+  **Issue 60:** <a href="https://github.com/SB2318/TechTroubleshootLog/issues/60">expo.ps1 cannot be loaded because running scripts is disabled on this system.</a>
+ 
+  **Issue 18:** <a href="https://github.com/SB2318/TechTroubleshootLog/issues/18">Command prompt won't change directory to another drive.</a>
+   
+  **Issue 12:** <a href="https://github.com/SB2318/TechTroubleshootLog/issues/12">Android Studio not responding with mouse click events.</a>
+ 
+  **Issue 8:** <a href="https://github.com/SB2318/TechTroubleshootLog/issues/8">(Page is not opening) developer.android.com redirected you too many times.</a>
+ 
+  **Issue 4:** <a href="https://github.com/SB2318/TechTroubleshootLog/issues/4">Task bar is not working.(System-based)</a>
 
-
-
-
+ 
+ 
+ 
+ 
+ 
+ 
+ 
   
   
